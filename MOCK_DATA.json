@@ -709,7 +709,8 @@
         "last_name": "Sauniere",
         "email": "vsauniere2g@miibeian.gov.cn",
         "gender": "Female",
-        "ip_address": "35.242.20.231"
+        "ip_address": "35.242.20.231",
+        "dob":"27/09/2008"
     },
     {
         "id": 90,
@@ -717,7 +718,8 @@
         "last_name": "Franks",
         "email": "hfranks2h@admin.ch",
         "gender": "Female",
-        "ip_address": "247.113.49.84"
+        "ip_address": "247.113.49.84",
+        "dob":"27/09/2001"
     },
     {
         "id": 91,
