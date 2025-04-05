@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "first_name": "Danika",
+        "first_name": "ankit",
         "last_name": "McGrail",
         "email": "dmcgrail0@php.net",
         "gender": "Non-binary",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "first_name": "Krispin",
+        "first_name": "Gautam",
         "last_name": "Coomes",
         "email": "kcoomes1@deliciousdays.com",
         "gender": "Male",
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "first_name": "Helene",
-        "last_name": "Leber",
+        "last_name": "kumar",
         "email": "hleber2@mail.ru",
         "gender": "Female",
         "ip_address": "112.65.80.27"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "first_name": "Bond",
-        "last_name": "Daniel",
+        "last_name": "Kumar",
         "email": "bdaniel3@instagram.com",
         "gender": "Male",
         "ip_address": "127.131.85.55"
